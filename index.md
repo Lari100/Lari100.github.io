@@ -18,4 +18,11 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 ### **NOTE: IT WORKS!** 
 
+![alt text](GitHub_Pages_done.png) 
 
+![alt text](Done_Done.png) 
+
+
+### **&**
+
+This [GitHub page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) helped me navigate the steps. 
